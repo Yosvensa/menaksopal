@@ -1,6 +1,12 @@
-103.148.25.0/24,ID,ID-JI,Trenggalek,
-103.148.24.0/24,ID,ID-JK,Jakarta,
-38.188.248.0/24,ID,ID-JI,Madiun,
-38.188.249.0/24,ID,ID-JI,Ponorogo,
-38.188.250.0/24,ID,ID-JI,Gresik,
-38.188.251.0/24,ID,ID-JI,Lamongan,
+# OpenGeoFeed by ANEXIA
+# Feed for AS139981
+#
+# This file contains a self-published geofeed as defined in http://tools.ietf.org/html/draft-google-self-published-geofeeds-02 (draft02)
+# Last modified: Tue, 10 March 2024 06:43:11 GMT
+# Number of records: 6
+103.148.25.0/24,ID,ID-JI,Trenggalek,,
+103.148.24.0/24,ID,ID-JK,Jakarta,,
+38.188.248.0/24,ID,ID-JI,Madiun,,
+38.188.249.0/24,ID,ID-JI,Ponorogo,,
+38.188.250.0/24,ID,ID-JI,Gresik,,
+38.188.251.0/24,ID,ID-JI,Lamongan,,
