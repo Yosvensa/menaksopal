@@ -1,0 +1,30 @@
+# OpenGeoFeed by ANEXIA
+# Feed for AS208175
+#
+# This file contains a self-published geofeed as defined in http://tools.ietf.org/html/draft-google-self-published-geofeeds-02 (draft02)
+# Last modified: Wed, 20 Dec 2023 12:43:20 GMT
+# Number of records: 30
+185.245.28.0/22,DE,DE-HE,Frankfurt am Main,,
+185.245.29.16/28,ES,ES-M,Madrid,,
+185.245.29.32/28,DE,DE-BW,Karlsruhe,,
+185.245.29.48/28,DE,DE-BW,Goeppingen,73033,
+185.245.29.64/28,DE,DE-BE,Berlin,,
+185.245.29.80/28,GR,GR-33,Ioannina,452 21,
+185.245.29.96/28,DE,DE-HB,Bremen,,
+185.245.30.0/24,DE,DE-HE,Frankfurt am Main,,
+185.245.31.0/24,AM,AM-ER,Jerewan,,
+2a09:1500::/29,DE,DE-HE,Frankfurt am Main,,
+2a09:1500:14::/48,GR,GR-33,Ioannina,452 21,
+2a09:1500:1000::/40,DE,DE-BW,Goeppingen,,
+2a09:1500:2000::/40,DE,DE-BW,Stuttgart,,
+2a09:1500:2400::/40,DE,DE-BE,Berlin,,
+2a09:1500:3400::/40,GR,GR-33,Ioannina,,
+2a09:1500:4600::/40,DE,DE-HB,Bremen,,
+2a09:1500:5400::/40,AT,,Linz,,
+2a09:1500:5600::/40,DE,DE-BY,Munich,,
+2a09:1500:5800::/40,PT,PT-13,Porto,,
+2a09:1500:6600::/40,DE,DE-BW,Karlsruhe,,
+2a09:1500:7000::/40,AM,AM-ER,Yerevan,,
+2a09:1501::/48,AM,AM-ER,Jerewan,,
+2a09:1501:3000::/40,DE,DE-HE,Frankfurt,,
+2a09:1501:3800::/40,AT,,Vienna,,
